@@ -44,5 +44,5 @@
 ```bash
 git clone https://github.com/H4ckethics138/BLUTRIX
 cd BLUTRIX
-chmod +x blutrix.sh
-bash blutrix.sh
+chmod +x blutrix.py
+bash blutrix.py
