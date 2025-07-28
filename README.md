@@ -17,7 +17,7 @@
 
 ## 📸 Tool Interface Preview
 
-![BLUTRIX Tool Banner](https://github.com/H4ckethics138/BLUTRIX/blob/main/preview.png) <!-- Replace with your screenshot path -->
+![BLUTRIX Tool Banner](https://github.com/H4ckethics138/BlutriX/blob/main/IMG_20250727_223356_497.webp) <!-- Replace with your screenshot path -->
 
 ---
 
