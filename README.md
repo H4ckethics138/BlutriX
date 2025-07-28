@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Ethic||Hackethics138-red?style=flat-square&logo=github" />
+  <img src="https://github.com/H4ckethics138" />
   <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat-square&logo=bluetooth" />
   <img src="https://img.shields.io/badge/Tool-Type-Bluetooth%20Exploiter-orange?style=flat-square&logo=linux" />
 </p>
