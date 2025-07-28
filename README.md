@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/H4ckethics138" />
-  <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat-square&logo=bluetooth" />
+  <img src="https://github.com/H4ckethics138/BlutriX.git" />
   <img src="https://img.shields.io/badge/Tool-Type-Bluetooth%20Exploiter-orange?style=flat-square&logo=linux" />
 </p>
 
