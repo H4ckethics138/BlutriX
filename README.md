@@ -1,12 +1,11 @@
-# BlutriX
 <h1 align="center">
   🔥 BLUTRIX v1.0 – Bluetooth Exploiter 🔥
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Develop er-Ethic || Hackethics138-red?style=flat -square&logo-github" />
-  <img src="https://img.shields.io/badge/Version -1.0-blue?style=flat-square&logo= bluetooth" />
-  <img src="https://img.shields.io/badge/Tool -Type-Bluetooth%20Exploiter-orange?style= flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/Developer-Ethic||Hackethics138-red?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Version-1.0-blue?style=flat-square&logo=bluetooth" />
+  <img src="https://img.shields.io/badge/Tool-Type-Bluetooth%20Exploiter-orange?style=flat-square&logo=linux" />
 </p>
 
 <p align="center">
@@ -18,7 +17,7 @@
 
 ## 📸 Tool Interface Preview
 
-![BLUTRIX Tool Banner](https://github.com/H4ckethics138/BlutriX/blob/main/IMG_20250727_223356_497.webp) <!-- Replace with your screenshot path -->
+![BLUTRIX Tool Banner](https://github.com/H4ckethics138/BLUTRIX/blob/main/preview.png) <!-- Replace with your screenshot path -->
 
 ---
 
